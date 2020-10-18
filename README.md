@@ -14,4 +14,4 @@ Created a landing page conveying their major product categories as well as an in
 
 The client now has a catchy website with the most pertinent company and product information for their customers.
 
-<img src="https://github.com/amym321/Skokie-Material/blob/main/assets/images/SkokieMaterial4c.jpg" width="600" >
+<img src="https://github.com/amym321/Skokie-Material/blob/master/assets/images/SkokieMaterial4c.jpg" width="600" >
