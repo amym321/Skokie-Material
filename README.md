@@ -1,6 +1,6 @@
 # Skokie Material
 
-<img src="https://github.com/amym321/skokie-valley/blob/master/public/assets/images/SkokieMaterial.jpg" width="600" >
+<img src="https://github.com/amym321/skokie-valley/blob/master/public/assets/images/SkokieMaterial3.jpg" width="600" >
 
 ## Challenge 
 
@@ -13,3 +13,5 @@ Created a landing page conveying their major product categories as well as an in
 ## Result 
 
 The client now has a catchy website with the most pertinent company and product information for their customers.
+
+<img src="https://github.com/amym321/skokie-valley/blob/master/public/assets/images/SkokieMaterial4c.jpg" width="600" >
