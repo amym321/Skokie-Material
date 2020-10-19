@@ -1,6 +1,6 @@
 # Skokie Material
 
-<img src="https://github.com/amym321/Skokie-Material/blob/main/assets/images/SkokieMaterial3.jpg" width="600" >
+<img src="https://github.com/amym321/Skokie-Material/blob/master/assets/images/SkokieMaterial3.jpg" width="600" >
 
 ## Challenge 
 
